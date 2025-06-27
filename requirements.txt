@@ -1,0 +1,7 @@
+ langchain 
+ openai 
+ streamlit 
+ pypdf 
+ faiss-cpu 
+ chromadb 
+ python-dotenv
