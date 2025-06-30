@@ -1,7 +1,6 @@
- langchain 
- openai 
- streamlit 
- pypdf 
- faiss-cpu 
- chromadb 
- python-dotenv
+streamlit
+langchain-community
+langchain-ollama
+sentence-transformers
+faiss-cpu
+pypdf
